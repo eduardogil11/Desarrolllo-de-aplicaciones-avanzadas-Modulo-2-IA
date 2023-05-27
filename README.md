@@ -8,4 +8,4 @@ Repositorio Módulo 2 Inteligencia Artificial
 * No es necesario descargar el Dataset, ya que la implementación se conecta a Drive para extraer el Dataset desde ahí.
 * Para poder probar la implementación del Data Augmentation Pokemon necesitamos descargar el Jupyter Notebook llamado "Data_augmentation_pokemon"
 * O podemos entrar directo al Notebook desde GitHub y ver los resultados.
-* Posteriormente corremos el Notebook.
+* Posteriormente corremos el Notebook..
